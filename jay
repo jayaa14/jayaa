@@ -1,1 +1,7 @@
+
 jayvardhan
+wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz :-honeypot1
+tar xvfz pentbox-1.8.tar.gz:-honeypot2
+sudo apt install ruby:-honeypot3
+wget https://github.com/aquasecurity/trivy/releases/download/v0.66.0/trivy_0.66.0_Linux-64bit.deb :-trivy1
+sudo dpkg -i trivy_0.66.0_Linux-64bit.deb :-trivy2
